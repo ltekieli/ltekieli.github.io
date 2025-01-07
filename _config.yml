@@ -28,6 +28,8 @@ linkedin_username: ltekieli
 
 permalink: /:title/
 
+google_analytics: true
+
 # Build settings
 theme: minima
 plugins:
